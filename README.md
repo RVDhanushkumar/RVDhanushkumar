@@ -34,15 +34,6 @@ Here’s what I work with:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RVDhanushkumar&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RVDhanushkumar&theme=dark" alt="GitHub Streak">
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
