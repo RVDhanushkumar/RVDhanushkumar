@@ -38,5 +38,5 @@ Here’s what I work with:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanush-awesome/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:dhanushkumar@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+  <a href="mailto:rapetidhanushkumar13@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
 </p>
