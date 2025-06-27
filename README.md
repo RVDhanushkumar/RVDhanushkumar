@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🌱 **Currently pursuing**: B.Tech, 3rd Year in Information Technology at ANITS.
-- 👨‍💻 **Actively exploring**: Full-Stack Development, Machine Learning and Cloud Technologies.
+- 🌱 **Currently pursuing**: B.Tech, Final Year in Information Technology at ANITS.
+- 👨‍💻 **Actively exploring**: Full-Stack Development.
 - 🤝 **Open to collaborating**: On innovative open-source projects and hackathons.
 - 🎯 **Goal**: To create meaningful software solutions that make an impact.
 
