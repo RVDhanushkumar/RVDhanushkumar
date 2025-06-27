@@ -25,8 +25,8 @@ Here’s what I work with:
 | Programming Languages  | Frameworks & Libraries | Tools & Platforms    |
 |-------------------------|-------------------------|-----------------------|
 | ![Java](https://img.shields.io/badge/-Java-red?logo=java) | ![React](https://img.shields.io/badge/-React-blue?logo=react) | ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white) |
-| ![C++](https://img.shields.io/badge/-C++-purple?logo=c%2B%2B) | ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) | ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-blue?logo=cloud) |
+| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white) |
+|  | ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) |  |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white) |                       |
 | ![React Native](https://img.shields.io/badge/-React%20Native-blue?logo=react&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white) |                       |
 
