@@ -9,6 +9,7 @@
 
 ## 🚀 About Me
 
+- 👨‍💻 **Tech Experience**: Software Developer Intern - Inncircles Technologies Private limited
 - 🌱 **Currently pursuing**: B.Tech, Final Year in Information Technology at ANITS.
 - 👨‍💻 **Actively exploring**: Full-Stack Development.
 - 🤝 **Open to collaborating**: On innovative open-source projects and hackathons.
